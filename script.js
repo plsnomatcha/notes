@@ -14,6 +14,13 @@ var notes=[
   "i find it interesting how our minds can change without us noticing, especially when we are exposed to different people, situations, and ways of thinking. we often believe that our way of seeing things is the most reasonable because it is the only perspective we have fully understood. but there is always another side that we may have never considered. even when two people see the same thing, their understanding can be completely different. i also think that the way we judge others says a lot about how we understand the world ourselves. we tend to use our own experiences as a way to measure other people's actions, even when their circumstances are nothing like ours.",
   "what we consider strange is simply something we have never experienced, and what we consider wrong may only be something we have never tried to understand. it's quite easy to form an opinion when we only see what is in front of us, but understanding something beyond its appearance is still a different matter."
  ]},
+ {t:"mindset compatibility",d:"July 31, 2026",ms:[
+  "i try so hard to actually care when people come to me, but i'm totally numb inside. everyone dumps their problems or story on me, and even though i sit there, listen, get what they’re going through, and give solid advice, i still feel absolutely nothing.",
+  "it's annoying because i'm good with words and know how to help them ease it, but i feel like i'm  just reading a script for them. what pisses me off the most is when it's my turn to talk. i give them actual, real advice, but when i am the one who need the support, they hit me with the most basic, useless, low-effort and especially obvious responses.",
+"i hate how thoughtless their words are, they shouldn't speak if that's all they can spit out. i'm tired of being their personal therapist when they don't give a single care about helping me back. that's why most of my friends don't know my struggles, they didn't even care to ask. being friend with people around my age always unmotivated me, drain me, doesn't help anything in my life at all.",
+"i wish i could find one better but they didn't help me at all. older friends around my age is much more better because they're completely have more senses especially how they used their words.",
+"being friends with people around my age doesn't feel right for me because i struggle to match their senses, i hate when they talk without thinking about their words, i also don't like their mindset.",
+ ]},
 
 ];
 notes.sort(function(a,b){return Date.parse(b.d)-Date.parse(a.d)});
