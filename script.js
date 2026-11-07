@@ -19,10 +19,15 @@ var notes=[
   "it's annoying because i'm good with words and know how to help them ease it, but i feel like i'm  just reading a script for them. what pisses me off the most is when it's my turn to talk. i give them actual, real advice, but when i am the one who need the support, they hit me with the most basic, useless, low-effort and especially obvious responses.",
 "i hate how thoughtless their words are, they shouldn't speak if that's all they can spit out. i'm tired of being their personal therapist when they don't give a single care about helping me back. that's why most of my friends don't know my struggles, they didn't even care to ask. being friend with people around my age always unmotivated me, drain me, doesn't help anything in my life at all.",
 "i wish i could find one better but they didn't help me at all. older friends around my age is much more better because they're completely have more senses especially how they used their words.",
-"being friends with people around my age doesn't feel right for me because i struggle to match their senses, i hate when they talk without thinking about their words, i also don't like their mindset.",
+"being friends with people around my age doesn't feel right for me because i struggle to match their senses, i hate when they talk without thinking about their words, i also don't like their mindset."
  ]},
+  {t:"does being kind always required as being available to everyone?",d:"March 14, 2026",ms:[
+"i find it quite ridiculous how some people think that being kind means agreeing with everyone and never having the courage to say no. they keep accepting things even when they know they don't want to, just because they are afraid of making someone feel bad or being seen as a bad person. but isn't that just people pleasing? i don't really understand why saying no has to be such a difficult thing. a person should be able to make their own decisions without constantly worrying about whether other people will approve of them. having your own principles means nothing if you cannot even stand by them when someone disagrees. and i think people should understand that being independent is not just about doing things on your own, but also having the ability to think for yourself and not let other people's expectations decide everything for you. you can be respectful without always agreeing, you can be kind without always accepting, and you can have a good heart without making yourself available to everyone."
+]},
 
 ];
+
+
 notes.sort(function(a,b){return Date.parse(b.d)-Date.parse(a.d)});
 var items=document.getElementById('items'),q=document.getElementById('q');
 function render(){
