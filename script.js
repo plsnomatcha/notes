@@ -4,6 +4,10 @@ var notes=[
   "i also find human behavior interesting, especially how people think, react, and make decisions based on their own experiences. i pay attention to how they communicate, how they treat others, and how their actions sometimes contradict their words. i often try to understand the reasons behind someone's behavior rather than judging them based only on what i see. dili lang ko basta mo-react sa akong makita. i usually observe first and think about the possible reasons behind it. people might see me as quiet, distant, or someone who doesn't care much, but there's actually a lot going on in my head.",
   "i don't always express what i'm thinking because i prefer processing things privately. i also don't feel obligated to explain every decision i make just to make it understandable to everyone. kabalo ko nga lahi-lahi tag perspective, and i don't expect everyone to understand the way i think."
  ]},
+ {t:"i hate everything",d:"November 10, 2026",h:1,ms:[
+  "i dont know why but everything really drains me.................................. wtf", 
+  "my body hurts lately, my bones inside me feel so dull, everything feels so dull",
+ ]},
  {t:"being tired of living the way things are is not necessarily the same as being tired of life itself",d:"November 19, 2025",ms:[
   "why some people can see death as the best way to end everything? there are others who are fighting every day just to stay alive. people with serious illnesses go through pain, treatments, and so much uncertainty, yet many of them still wish to have more time.",
   "different people see life depending on what they are going through. some people spend their days hoping for another chance, while others begin to believe that having another day is no longer worth it. i understand that emotional pain can be difficult to deal with, even when it cannot be seen by others. but i don't think death should be treated as the answer to every problem. wanting the pain to stop does not always mean wanting life to end.",
